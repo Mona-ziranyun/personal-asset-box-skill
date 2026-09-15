@@ -1,0 +1,5 @@
+interface:
+  display_name: "个人素材盒"
+  short_description: "创建和维护本地优先、支持标签筛选与完整备份的中文图片素材库"
+  default_prompt: "使用 $personal-asset-box 创建一个可运行的本地图片标签素材盒。"
+  brand_color: "#3156D3"
